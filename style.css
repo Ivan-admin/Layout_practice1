@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+}
+
+.full-screen {
+  min-height: 100vh;
+  font-family: Arial, "Helvetica Neue", sans-serif;
+  color: #926239;
+  font-size: 20px;
+
+  background-color: #926239;
+
+  background-image: url(https://traversymedia.com/downloads/assets/beachshowcase.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  text-align: center;
+}
+.heading {
+  text-transform: capitalize;
+  font-size: 50px;
+  margin: 0;
+  padding-top: 33vh;
+}
+.page-link {
+  display: inline-block;
+  text-decoration: none;
+  color: inherit;
+  padding: 12px 20px;
+  border: 1px solid #926239;
+  margin-top: 20px;
+  border-radius: 8px;
+  text-transform: capitalize;
+}
+
+.text1 {
+  font-family: Arial, "Helvetica Neue", sans-serif;
+  font-size: 17px;
+  background-color: #926239;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  line-height: 1.6;
+
+}
+.text2 {
+  font-family: Arial, "Helvetica Neue", sans-serif;
+  font-size: 17px;
+  background-color: white;
+  color: #926239;
+  text-align: center;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+.inline-block {
+  color: #926239;
+  font-family: Arial, "Helvetica Neue", sans-serif;
+  display: inline-block;
+  width: 33.3333%;
+  box-sizing: border-box;
+  padding: 20px;
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+.bg-brown {
+  color: white;
+  background-color: #926239;
+
+}
